@@ -13,3 +13,12 @@
 
 }
 
+.col-md-4{
+    float: left;
+    width: 35%;
+    padding: 0 10px;
+    
+}
+#background{
+    background-color:#45567D;
+}
