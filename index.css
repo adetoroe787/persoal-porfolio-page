@@ -1,0 +1,14 @@
+#nfo-Page{
+    background-color:#262729;
+    height: 500px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #262729;
+    color: #fff;
+    padding: 100px 25px;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+
+}
